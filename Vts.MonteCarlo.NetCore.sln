@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vts.MonteCarlo.NetCore", "Vts.MonteCarlo.NetCore\Vts.MonteCarlo.NetCore.csproj", "{9FDF0F25-C913-4EDB-9595-A9832B0944BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vts.MonteCarlo.NetCore.Test", "Vts.MonteCarlo.NetCore.Test\Vts.MonteCarlo.NetCore.Test.csproj", "{9419054F-C33F-462E-B447-5B3A3D46C783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDF0F25-C913-4EDB-9595-A9832B0944BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDF0F25-C913-4EDB-9595-A9832B0944BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDF0F25-C913-4EDB-9595-A9832B0944BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDF0F25-C913-4EDB-9595-A9832B0944BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9419054F-C33F-462E-B447-5B3A3D46C783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9419054F-C33F-462E-B447-5B3A3D46C783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9419054F-C33F-462E-B447-5B3A3D46C783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9419054F-C33F-462E-B447-5B3A3D46C783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {149F0896-879B-4D49-8F90-7A39163FFE13}
+	EndGlobalSection
+EndGlobal
